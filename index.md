@@ -2,16 +2,6 @@
   
 <head>
   <title>Somi's Processing</title>
-  
-  <style>
-  div.mitem {
-	width : 120px;
-	left: 82%;
-	top: 160px;
-	padding: 5px;
-	border: 1px solid transparent;
-}
-  </style>
   </<head>
   
 <body>
